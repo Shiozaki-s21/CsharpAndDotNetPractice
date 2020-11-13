@@ -1,9 +1,11 @@
 # README
+
 ## Overview
 
-- This is the repogitory to practice C# + .net
+- This is the repository to practice C# + .net
 
-## Project
+## Projects
+
     - HelloWorld
       - Web API
       - Project to presentation for "HelloWorld"
@@ -11,5 +13,6 @@
       - C# and .Net Tutorial on Microsoft Web page
       - Put page url on Refence
   
-## Reference
+## References
+
 [.netのドキュメント](https://docs.microsoft.com/ja-jp/dotnet/)
